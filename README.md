@@ -1,2 +1,7 @@
-# Disney-Hotstar-Clone
-Landing page(Home Page) clone of Disney+ Hotstar  
+
+# Author Name: Manu Gupta
+# Date: July22
+# Project Name: Disney+ Hotstar Landing Page Clone using HTML, CSS, JS.
+
+
+
